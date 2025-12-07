@@ -1,5 +1,5 @@
 main:
   - title: "Projects"
-    url: /tags/
+    url: /projects/
   - title: "CV"
-    url: /about/
+    url: /cv/
