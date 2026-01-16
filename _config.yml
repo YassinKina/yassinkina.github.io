@@ -18,7 +18,6 @@ email: yassinkina@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Computational Linguistics University of Tübingen
 url: https://yourusername.github.io
-twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
