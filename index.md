@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "NLP Researcher & Engineer"
+title: "Natural Language Processing Researcher & Engineer"
 
 ---
 ## <i class="fas fa-user-graduate"></i> About Me
