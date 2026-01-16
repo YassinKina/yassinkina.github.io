@@ -126,7 +126,7 @@ atom_feed:
 
 favicon:
   path: "/assets/images/"
-  ico: "favicon.ico?v=1"
+  ico: "favicon.ico"
   svg: "favicon.svg?v=1"
   apple_touch_icon: "apple-touch-icon.png?v=1"
   manifest: "site.webmanifest"
