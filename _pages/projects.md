@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 🚧 Poké-Classifer
-**Status:** Completed |  [View Code](https://github.com/YassinKina/poke-classifier-pytorch) | [Live Demo](https://poke-classifier-pytorch.streamlit.app/)
+[View Code](https://github.com/YassinKina/poke-classifier-pytorch) | [Live Demo](https://poke-classifier-pytorch.streamlit.app/)
 
 
 * End-to-End Vision Pipeline: Developed a custom PyTorch CNN to classify 150+ species, managing the full lifecycle from raw data engineering to deployment.
@@ -16,7 +16,7 @@ author_profile: true
 * Live Interactive Deployment: Deployed a Streamlit web application that allows users to perform real-time inference via an optimized computer vision engine.
 
 ## 📦 Amazon Product Insight Engine: Fine-Tuning RoBERTa for E-commerce
-**Status:** Completed | [View Code](https://github.com/yassinkina/YOUR-REPO-NAME) | [Live Demo](https://YOUR-STREAMLIT-LINK)
+[View Code](https://github.com/YassinKina/customer-sentiment-analysis) 
 
 * Granular Sentiment Analysis: Fine-tuned a RoBERTa transformer to move beyond binary sentiment, achieving 72% accuracy in predicting nuanced 1–5 star ratings.
 
