@@ -21,7 +21,7 @@ url: https://yourusername.github.io
 github_username: username
 twitter_username: username
 minimal_mistakes_skin: default
-search: true
+
 
 # Build settings
 markdown: kramdown
