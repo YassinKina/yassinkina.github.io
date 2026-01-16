@@ -122,3 +122,9 @@ tag_archive:
 
 atom_feed:
   hide: true
+
+favicon:
+  path: "/assets/images/"
+  ico: "favicon.ico"
+  svg: "favicon.svg"
+  apple_touch_icon: "apple-touch-icon.png"
