@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Yassin Kina"
+title: "NLP Researcher & Engineer"
 
 ---
 ## About Me
