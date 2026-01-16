@@ -128,3 +128,4 @@ favicon:
   ico: "favicon.ico"
   svg: "favicon.svg"
   apple_touch_icon: "apple-touch-icon.png"
+  manifest: "site.webmanifest"
