@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: "Yassin Kina"
 
+---
 
 I am a **Computational Linguistics Master's student** at the **University of Tübingen**, specializing in the intersection of Software Engineering and Applied Natural Language Processing.
 
