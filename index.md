@@ -4,12 +4,11 @@ author_profile: true
 title: "Yassin Kina"
 
 ---
-
-I am a **Computational Linguistics Master's student** at the **University of Tübingen**, specializing in the intersection of Software Engineering and Applied Natural Language Processing.
-
-With a **B.S. in Computer Science from Tufts University**, I combine software development standards with modern NLP research. 
+## About Me
+I am a **Computational Linguistics Master's student** at the **University of Tübingen**, specializing in Natural Language Processing.
 
 ---
+
 
 ## 🚀 Highlighted Projects
 
@@ -37,6 +36,6 @@ Goal: To develop translation pipelines that preserve the rhetorical nuance of cl
 ---
 
 ## 📫 Let's Connect
-I am currently seeking Werkstudent or HiWi opportunities in NLP/ML Engineering, Data Science, or Software Development within the Cyber Valley / Tübingen region.
+I am currently seeking Werkstudent or HiWi opportunities in NLP/ML Engineering, Data Science, or Software Development.
 
 [**Resume/CV**](/assets/resume.pdf){: .btn .btn--primary} [**GitHub**](https://github.com/YassinKina){: .btn .btn--info} [**LinkedIn**](https://linkedin.com/in/yassin-kina/){: .btn .btn--success}
