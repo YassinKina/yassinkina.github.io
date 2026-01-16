@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="text-center">
-  <a href="/assets/Yassin_Kina_CV.pdf" class="btn btn--primary btn--large"><i class="fas fa-download"></i> Download PDF Version</a>
+  <a href="/assets/Yassin_Kina_CV.pdf" class="btn btn--primary btn--large"><i class="fas fa-download"></i> View PDF Version</a>
 </div>
 
 <hr>
