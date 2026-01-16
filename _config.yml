@@ -59,7 +59,7 @@ plugins:
 author:
   name    : "Yassin Kina"
   avatar  : "/assets/images/bio-photo-YK.jpg"
-  bio     : "Master's Student in Computational Linguistics at the University of Tübingen"
+  bio     : "NLP Research & Engineer"
   location: "Tübingen, Germany"
   links:
     - label: "Email"
