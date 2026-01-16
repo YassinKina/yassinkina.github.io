@@ -17,12 +17,11 @@ With a **B.S. in Computer Science from Tufts University**, I combine software de
 **NLP & ML Engineering**
 * Fine-tuned a **RoBERTa** model to predict granular 1–5 star ratings, achieving a **30% error reduction** over zero-shot baselines.
 * Optimized the training loop for **Apple Silicon (MPS)**, achieving a 3x increase in throughput via hardware-aware engineering.
-* **Keywords:** `PyTorch`, `Hugging Face`, `MPS Optimization`.
+
 
 ### [Pokémon Image Classifier](/projects/)
 **Computer Vision & Deployment**
 * Designed a custom Dynamic CNN to classify 150+ species, managing the full lifecycle from data engineering to live deployment.
-* **Keywords:** `CNN`, `Streamlit`, `Hugging Face Datasets`.
 
 ---
 
