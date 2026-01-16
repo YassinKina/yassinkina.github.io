@@ -9,20 +9,20 @@ author_profile: true
 **Status:** Completed |  [View Code](https://github.com/YassinKina/poke-classifier-pytorch) | [Live Demo](https://poke-classifier-pytorch.streamlit.app/)
 
 
-*End-to-End Vision Pipeline: Developed a custom PyTorch CNN to classify 150+ species, managing the full lifecycle from raw data engineering to deployment.
+* End-to-End Vision Pipeline: Developed a custom PyTorch CNN to classify 150+ species, managing the full lifecycle from raw data engineering to deployment.
 
-*Data Engineering: Built a high-performance pipeline using Hugging Face Datasets with real-time transformations and automated splitting to improve model generalization.
+* Data Engineering: Built a high-performance pipeline using Hugging Face Datasets with real-time transformations and automated splitting to improve model generalization.
 
-*Live Interactive Deployment: Deployed a Streamlit web application that allows users to perform real-time inference via an optimized computer vision engine.
+* Live Interactive Deployment: Deployed a Streamlit web application that allows users to perform real-time inference via an optimized computer vision engine.
 
 ## 📦 Amazon Product Insight Engine: Fine-Tuning RoBERTa for E-commerce
 **Status:** Completed | [View Code](https://github.com/yassinkina/YOUR-REPO-NAME) | [Live Demo](https://YOUR-STREAMLIT-LINK)
 
-*Granular Sentiment Analysis: Fine-tuned a RoBERTa transformer to move beyond binary sentiment, achieving 72% accuracy in predicting nuanced 1–5 star ratings.
+* Granular Sentiment Analysis: Fine-tuned a RoBERTa transformer to move beyond binary sentiment, achieving 72% accuracy in predicting nuanced 1–5 star ratings.
 
 * Hardware Optimization: Engineered the training loop for Apple Silicon (MPS) using BFloat16 mixed-precision, resulting in a 3x increase in training throughput on consumer hardware.
 
-*Data Strategy & Recall: Overcame significant class imbalance in e-commerce data to achieve 70%+ recall on 1-star reviews, successfully identifying critical product defects that baseline models missed.
+* Data Strategy & Recall: Overcame significant class imbalance in e-commerce data to achieve 70%+ recall on 1-star reviews, successfully identifying critical product defects that baseline models missed.
 
 
 
