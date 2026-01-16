@@ -11,15 +11,7 @@ header:
 
 I am a **Computational Linguistics Master's student** at the **University of Tübingen**, specializing in the intersection of Software Engineering and Applied Natural Language Processing.
 
-With a **B.S. in Computer Science from Tufts University**, I combine software development standards with modern NLP research. My work focuses on building high-efficiency pipelines, fine-tuning Transformer architectures, and optimizing Machine Learning workflows for consumer-grade hardware.
-
----
-
-## 🛠️ Technical Expertise
-
-* **Natural Language Processing:** Transformer Fine-Tuning (RoBERTa, BERT), Tokenization Strategy, Sentiment Analysis.
-* **Machine Learning Engineering:** PyTorch (MPS/MPS Graph), Hugging Face Ecosystem, Mixed-Precision Training (BFloat16).
-* **Data & Software:** Python (Pandas/NumPy), SQL, Automated Data Pipelines, Linux/Unix (CLI).
+With a **B.S. in Computer Science from Tufts University**, I combine software development standards with modern NLP research. 
 
 ---
 
