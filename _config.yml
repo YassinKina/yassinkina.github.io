@@ -65,25 +65,28 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-link"
       url: "mailto:yassinkina.gmail@example.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+   - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yassinkina"
+    - label: "Medium"
+       icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@yassinkina"
+    
  
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-link"
+      url: "mailto:yassinkina.gmail@example.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@yassinkina"
+   
+    
 
 defaults:
   # _posts
