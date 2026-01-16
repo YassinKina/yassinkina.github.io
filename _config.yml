@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Computational Linguistics University of Tübingen
 url: https://yourusername.github.io
 github_username: username
+twitter_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -56,19 +57,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Yassin Kina"
-  avatar : "/assets/images/bio-photo-YK.jpg"
-  bio    : "Master's Student in Computational Linguistics at the University of Tübingen"
-  location : "Tübingen, Germany"
+  name    : "Yassin Kina"
+  avatar  : "/assets/images/bio-photo-YK.jpg"
+  bio     : "Master's Student in Computational Linguistics at the University of Tübingen"
+  location: "Tübingen, Germany"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-link"
-      url: "mailto:yassinkina.gmail@example.com"
-   - label: "GitHub"
+      icon: "fas fa-fw fa-envelope" # Changed from fa-link to be more accurate
+      url: "mailto:yassinkina@gmail.com"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yassinkina"
     - label: "Medium"
-       icon: "fab fa-fw fa-medium"
+      icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@yassinkina"
     
  
