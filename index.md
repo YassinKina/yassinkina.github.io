@@ -2,12 +2,7 @@
 layout: single
 author_profile: true
 title: "Yassin Kina"
-tagline: "Bridging Computer Science and Linguistic Theory"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/nlp-banner.jpg # Optional: add a clean tech/abstract banner
----
+
 
 I am a **Computational Linguistics Master's student** at the **University of Tübingen**, specializing in the intersection of Software Engineering and Applied Natural Language Processing.
 
