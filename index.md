@@ -37,6 +37,7 @@ Goal: To develop translation pipelines that preserve the rhetorical nuance of cl
 ---
 
 ## 📫 Let's Connect
-I am currently seeking Werkstudent or HiWi opportunities in NLP/ML Engineering, Data Science, or Software Development.
+I am currently seeking Werkstudent or HiWi opportunities in NLP Engineering or Data Science. I enjoy bridging the gap between linguistic theory and scalable code, with a particular interest in Neural Machine Translation and Large Language Models.
+
 
 [**Resume/CV**](/assets/resume.pdf){: .btn .btn--primary} [**GitHub**](https://github.com/YassinKina){: .btn .btn--info} [**LinkedIn**](https://linkedin.com/in/yassin-kina/){: .btn .btn--success}
