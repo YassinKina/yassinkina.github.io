@@ -61,16 +61,16 @@ author:
   bio     : "NLP Researcher & Engineer"
   location: "Tübingen, Germany"
   links:
-    - label: "Email"
+    - label: "yassinkina@gmail.com"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:yassinkina@gmail.com"
-    - label: "LinkedIn"
+    - label: "yassin-kina"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/yassin-kina"
-    - label: "GitHub"
+    - label: "YassinKina"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/YassinKina"
-    - label: "Medium"
+    - label: "@yassinkina"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@yassinkina"
     
@@ -78,16 +78,16 @@ author:
 
 footer:
   links:
-    - label: "Email"
+    - label: "yassinkina@gmail.com"
       icon: "fas fa-fw fa-link"
       url: "mailto:yassinkina.gmail@example.com"
-    - label: "LinkedIn"
+    - label: "yassin-kina"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/yassin-kina"
-    - label: "GitHub"
+    - label: "YassinKina"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Medium"
+    - label: "@yassinkina"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@yassinkina"
    
