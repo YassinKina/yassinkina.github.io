@@ -4,14 +4,14 @@ author_profile: true
 title: "Natural Language Processing Researcher & Engineer"
 
 ---
-## <i class="fas fa-user-graduate"></i> About Me
+About Me
 I am a Computational Linguistics Master’s student at the University of Tübingen with a B.S. in Computer Science from Tufts University. I specialize in NLP, with a core research focus on developing Neural Machine Translation architectures for Classical Arabic, leveraging my background in both software engineering and Semitic linguistics.
 
 ---
 
 
 
-## 🚀 Highlighted Projects
+## Highlighted Projects
 
 ### [Amazon Product Insight Engine](/projects/)
 **NLP & ML Engineering**
@@ -25,7 +25,7 @@ I am a Computational Linguistics Master’s student at the University of Tübing
 
 ---
 
-## 🔭 Research Focus: Computational Modeling of Classical Arabic
+## Research Focus: Computational Modeling of Classical Arabic
 My current research focuses on the intersection of Machine Translation (MT) and Historical Linguistics. Specifically, I am exploring methods to bridge the gap between Classical Arabic (the language of the Quran and classical literature) and modern target languages.
 
 The Challenge: Addressing the severe data scarcity (low-resource) of Classical Arabic and the syntactic/semantic shifts between CA and Modern Standard Arabic (MSA).
@@ -36,7 +36,7 @@ Goal: To develop translation pipelines that preserve the rhetorical nuance of cl
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 I am currently seeking Werkstudent or HiWi opportunities in NLP Engineering or Data Science. I enjoy bridging the gap between linguistic theory and scalable code, with a particular interest in Neural Machine Translation and Large Language Models.
 
 
