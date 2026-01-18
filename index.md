@@ -4,7 +4,7 @@ author_profile: true
 title: "Natural Language Processing Researcher & Engineer"
 
 ---
-About Me
+## About Me
 I am a Computational Linguistics Master’s student at the University of Tübingen with a B.S. in Computer Science from Tufts University. I specialize in NLP, with a core research focus on developing Neural Machine Translation architectures for Classical Arabic, leveraging my background in both software engineering and Semitic linguistics.
 
 ---
