@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Computational Linguistics Student | Applied Machine Learning | Deep Learning & NLP"
+title: "Machine Learning and NLP Engineer (Student)"
 
 ---
 ## About Me
