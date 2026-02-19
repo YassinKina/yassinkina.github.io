@@ -4,7 +4,7 @@ author_profile: true
 title: "Machine Learning Developer — NLP Engineer"
 
 ---
-## About Me
+## About 
 I am a Computational Linguistics Master’s student at the Eberhard Karls University of Tübingen with a B.S. in Computer Science from Tufts University. I focus on building reproducible, experiment-driven machine learning systems, with particular interest in NLP, deep learning, and scalable model training pipelines.
 
 ---
