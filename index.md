@@ -15,11 +15,10 @@ I am a Computational Linguistics Master’s student at the Eberhard Karls Univer
 
 ### [Pokémon Image Classifier](/projects/)
 **Computer Vision & Deployment**
-* Designed a custom Dynamic CNN to classify 150+ Pokémon species, managing the full lifecycle from data engineering to live deployment.
 
 ### [Amazon Product Insight Engine](/projects/)
 **NLP & ML Engineering**
-* Fine-tuned a **RoBERTa** model to predict granular 1–5 star ratings, achieving a **30% error reduction** over zero-shot baselines.
+
 
 ---
 
