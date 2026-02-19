@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Machine Learning Developer | NLP Engineer"
+title: "Machine Learning Developer — NLP Engineer"
 
 ---
 ## About Me
