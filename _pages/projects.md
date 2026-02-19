@@ -16,11 +16,9 @@ author_profile: true
 * Live Interactive Deployment: Deployed a Streamlit web application that allows users to perform real-time inference via an optimized computer vision engine.
 
 ## 📦 Amazon Product Insight Engine: Fine-Tuning RoBERTa for E-commerce
-[View Code](https://github.com/YassinKina/customer-sentiment-analysis) 
+[View Code](https://github.com/YassinKina/amazon_sentiment_analysis) | [Live Demo](https://customersentimentanalysis.streamlit.app/)
 
-* Granular Sentiment Analysis: Fine-tuned a RoBERTa transformer to move beyond binary sentiment, achieving 72% accuracy in predicting nuanced 1–5 star ratings.
-
-* Hardware Optimization: Engineered the training loop for Apple Silicon (MPS) using BFloat16 mixed-precision, resulting in a 3x increase in training throughput on consumer hardware.
+* Granular Sentiment Analysis: Fine-tuned a RoBERTa transformer to move beyond binary sentiment, achieving 72% F1 score in predicting nuanced 1–5 star ratings.
 
 * Data Strategy & Recall: Overcame significant class imbalance in e-commerce data to achieve 70%+ recall on 1-star reviews, successfully identifying critical product defects that baseline models missed.
 
