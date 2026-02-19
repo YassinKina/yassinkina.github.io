@@ -24,11 +24,7 @@ I am a Computational Linguistics Master’s student at the Eberhard Karls Univer
 
 
 ## Let's Connect
-I am currently seeking Werkstudent or HiWi opportunities in Tübingen or the broader Cyber Valley ecosystem.
- 
-I’m particularly interested in roles involving NLP, Computer Vision, and Multimodal Modeling.
-
-If you’re working on applied AI, I would love to connect and discuss how I can contribute.
+I am seeking Werkstudent or HiWi opportunities within the Tübingen/Cyber Valley ecosystem, as well as remote roles. For teams working on applied ML systems or research-driven modeling, I am always interested in connecting to discuss potential contributions.
 
 
 [**Resume/CV**](/assets/Yassin_Kina_CV.pdf){: .btn .btn--primary} [**GitHub**](https://github.com/YassinKina){: .btn .btn--info} [**LinkedIn**](https://linkedin.com/in/yassin-kina/){: .btn .btn--success}
