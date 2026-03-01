@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Machine Learning Developer"
+title: "Machine Learning Researcher"
 
 ---
 ## About 
