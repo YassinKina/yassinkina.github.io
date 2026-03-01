@@ -58,7 +58,7 @@ plugins:
 author:
   name    : "Yassin Kina"
   avatar  : "/assets/images/bio-photo-YK.jpg"
-  bio     : "Machine Learning Researcher | Vision, Language & Multimodal Systems"
+  bio     : "Machine Learning Researcher - Vision, Language & Multimodal Systems"
   location: "Tübingen, Germany"
   links:
     - label: "yassinkina@gmail.com"
