@@ -7,7 +7,7 @@ title: "Machine Learning Researcher"
 ## About 
 I am a Computer Scientist and researcher currently pursuing a Master’s in Computational Linguistics at the University of Tübingen, following a B.S. in Computer Science from Tufts University.
 
-My work sits at the intersection of Computer Vision and Multimodal Learning. While my current studies provide a deep dive into the nuances of NLP, my primary ambition is to bridge the gap between vision and language to solve complex real-world problems. I am particularly driven by the challenges of medical computer imaging, where I aim to develop reproducible, experiment-driven systems that have a tangible impact on human health.
+My work sits at the intersection of Computer Vision and Multimodal Learning. While my current studies provide a deep dive into the nuances of NLP, my primary ambition is to bridge the gap between vision and language to solve complex real-world problems. I am particularly driven by the challenges of medical computer imaging.
 
 ---
 
