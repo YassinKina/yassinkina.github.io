@@ -9,8 +9,6 @@ title: "Machine Learning Researcher"
 I am a Master’s student in Computational Linguistics at the University of Tübingen with a B.S. in Computer Science from Tufts University. Within Natural Language Processing, my primary research interests center on two main areas: Robustness, Interpretability & Evaluation and Cross-Lingual & Low-Resource NLP.
 
 ---
-
-
 ## Highlighted Projects
 
 ### [Pokémon Image Classifier](/projects/)
@@ -19,10 +17,7 @@ I am a Master’s student in Computational Linguistics at the University of Tüb
 ### [Amazon Product Insight Engine](/projects/)
 **NLP & ML Engineering**
 
-
 ---
-
-
 ## Let's Connect
 I am seeking Werkstudent or HiWi opportunities within the Tübingen/Cyber Valley ecosystem, as well as remote roles. For teams working on applied ML systems or research-driven modeling, I am always interested in connecting to discuss potential contributions.
 
