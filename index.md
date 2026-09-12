@@ -19,7 +19,6 @@ I am a Master’s student in Computational Linguistics at the University of Tüb
 
 ---
 ## Let's Connect
-I am seeking Werkstudent or HiWi opportunities within the Tübingen/Cyber Valley ecosystem, as well as remote roles. For teams working on applied ML systems or research-driven modeling, I am always interested in connecting to discuss potential contributions.
-
+I am actively seeking Werkstudent or HiWi opportunities within the Tübingen/Cyber Valley ecosystem. Whether working alongside academic research teams on cross-lingual and evaluation challenges or building applied language modeling systems in industry, I am always interested in connecting to discuss potential contributions.
 
 [**Resume/CV**](/assets/Yassin_Kina_CV.pdf){: .btn .btn--primary} [**GitHub**](https://github.com/YassinKina){: .btn .btn--info} [**LinkedIn**](https://linkedin.com/in/yassin-kina/){: .btn .btn--success}
