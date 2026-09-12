@@ -6,7 +6,7 @@ title: "Machine Learning Researcher"
 ---
 ## About 
 
-I am a Master's student in Computational Linguistics at the University of Tübingen with a B.S. in Computer Science from Tufts University, eager to apply my background in deep learning and software engineering to advance Natural Language Processing and Computer Vision.
+I am a Master’s student in Computational Linguistics at the University of Tübingen with a B.S. in Computer Science from Tufts University. Within Natural Language Processing, my primary research interests center on two main areas: Robustness, Interpretability & Evaluation and Cross-Lingual & Low-Resource NLP.
 
 ---
 
