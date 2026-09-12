@@ -1,16 +1,14 @@
 ---
 layout: single
 author_profile: true
-title: "Machine Learning Developer"
+title: "Machine Learning Researcher"
 
 ---
 ## About 
-I am a Computer Scientist and researcher currently pursuing a Master’s in Computational Linguistics at the University of Tübingen, following a B.S. in Computer Science from Tufts University.
 
-My work sits at the intersection of Computer Vision and Multimodal Learning. While my current studies provide a deep dive into the nuances of NLP, my primary ambition is to bridge the gap between vision and language to solve real-world problems.
+I am a Master's student in Computational Linguistics at the University of Tübingen with a B.S. in Computer Science from Tufts University, eager to apply my background in deep learning and software engineering to advance Natural Language Processing and Computer Vision.
 
 ---
-
 
 
 ## Highlighted Projects
