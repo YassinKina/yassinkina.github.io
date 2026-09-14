@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Machine Learning Researcher"
+title: "NLP Researcher"
 
 ---
 ## About 
