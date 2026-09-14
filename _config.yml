@@ -58,7 +58,7 @@ plugins:
 author:
   name    : "Yassin Kina"
   avatar  : "/assets/images/bio-photo-YK.jpg"
-  bio     : "Machine Learning Researcher"
+  bio     : "NLP Researcher"
   location: "Tübingen, Germany"
   links:
     - label: "yassinkina@gmail.com"
